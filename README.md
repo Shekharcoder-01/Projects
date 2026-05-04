@@ -36,4 +36,4 @@ This project focuses on cleaning and preparing the Kaggle Zomato Bangalore Resta
 
 ## Dataset Note
 The input file `zomato.csv` is expected to contain columns such as `address`, `rate`, `votes`, `approx_cost(for two people)`, and `rest_type`. The output `zomato2.csv` will be generated in the same directory.
-# Projects
+
